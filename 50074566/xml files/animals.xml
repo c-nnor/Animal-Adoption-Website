@@ -1,0 +1,82 @@
+﻿<animals>
+	<animal>
+		<Name>Whiskers</Name>
+		<Type>Cat</Type>
+		<Breed>Black Cat</Breed>
+		<Age>4 months</Age>
+		<Description>Whiskers is a friendly black cat male with a soft coat and a playful nature.</Description>
+		<PhotoUrl>animalimages/cat1.jpg</PhotoUrl>
+	</animal>
+	<animal>
+		<Name>Bella</Name>
+		<Type>Dog</Type>
+		<Breed>German Shepherd</Breed>
+		<Age>2 years</Age>
+		<Description>Bella is a lovable German Shepherd with a short coat and a gentle temperament.</Description>
+		<PhotoUrl>animalimages/dog1.jpg</PhotoUrl>
+	</animal>
+	<animal>
+		<Name>Mittens</Name>
+		<Type>Cat</Type>
+		<Breed>Tabby</Breed>
+		<Age>4 years</Age>
+		<Description>Mittens is an elegant Tabby cat with striking kind eyes and a vocal personality.</Description>
+		<PhotoUrl>animalimages/cat2.jpg</PhotoUrl>
+	</animal>
+	<animal>
+		<Name>Rusty</Name>
+		<Type>Dog</Type>
+		<Breed>Terrier</Breed>
+		<Age>3 years</Age>
+		<Description>Rusty is an energetic Terrier who loves to play fetch and go for walks.</Description>
+		<PhotoUrl>animalimages/dog2.jpg</PhotoUrl>
+	</animal>
+	<animal>
+		<Name>Smokey</Name>
+		<Type>Cat</Type>
+		<Breed>Tortoiseshell cat</Breed>
+		<Age>5 years</Age>
+		<Description>Smokey is a majestic Tortoiseshell cat cat with a fluffy tail and a calm demeanor.</Description>
+		<PhotoUrl>animalimages/cat3.jpg</PhotoUrl>
+	</animal>
+	<animal>
+		<Name>Riley</Name>
+		<Type>Dog</Type>
+		<Breed>Rottweiler</Breed>
+		<Age>2 years</Age>
+		<Description>Riley is a friendly Rottweiler with a keen sense of smell and a love for exploration.</Description>
+		<PhotoUrl>animalimages/dog3.jpg</PhotoUrl>
+	</animal>
+	<animal>
+		<Name>Shadow</Name>
+		<Type>Cat</Type>
+		<Breed>Shorthair</Breed>
+		<Age>3 years</Age>
+		<Description>Shadow is a sleek Shorthair cat with a mysterious charm and a playful spirit.</Description>
+		<PhotoUrl>animalimages/cat4.jpg</PhotoUrl>
+	</animal>
+	<animal>
+		<Name>Charlie</Name>
+		<Type>Dog</Type>
+		<Breed>Dutch Shepherd mix</Breed>
+		<Age>6 months</Age>
+		<Description>Charlie is an adorable Dutch Shepherd mix with a friendly disposition.</Description>
+		<PhotoUrl>animalimages/dog4.jpg</PhotoUrl>
+	</animal>
+	<animal>
+		<Name>Luna</Name>
+		<Type>Cat</Type>
+		<Breed>Van Cat</Breed>
+		<Age>2 years</Age>
+		<Description>Luna is a beautiful cat with striking blue eyes and a gentle personality.</Description>
+		<PhotoUrl>animalimages/cat5.jpg</PhotoUrl>
+	</animal>
+	<animal>
+		<Name>Tucker</Name>
+		<Type>Dog</Type>
+		<Breed>Pitbul</Breed>
+		<Age>3 years</Age>
+		<Description>Tucker is a loyal Pitbul with a strong build and a protective nature.</Description>
+		<PhotoUrl>animalimages/dog5.jpg</PhotoUrl>
+	</animal>
+</animals>

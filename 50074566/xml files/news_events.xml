@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<news_events>
+	<event>
+		<title>Childrens Santa Visit</title>
+		<date>24/12/23</date>
+		<description>Come along with your child down to the animal rescue centre to not only see the animals but also Santa Clause!!.</description>
+	</event>
+	<event>
+		<title>Pet Adoption Day</title>
+		<date>15/03/2023</date>
+		<description>Join us for a special Pet Adoption Day! Find your new furry friend and give them a forever home.</description>
+	</event>
+	<event>
+		<title>Wildlife Conservation Seminar</title>
+		<date>10/04/2023</date>
+		<description>Learn about wildlife conservation efforts and how you can contribute to preserving our natural habitats.</description>
+	</event>
+	<event>
+		<title>Paws in the Park Fundraiser</title>
+		<date>20/05/2023</date>
+		<description>Bring your pets for a fun day in the park! All proceeds go towards supporting our animal rescue initiatives.</description>
+	</event>
+	<event>
+		<title>Rescue Run 5K</title>
+		<date>08/06/2023</date>
+		<description>Participate in our Rescue Run 5K to raise awareness and funds for rescuing animals in need.</description>
+	</event>
+	<event>
+		<title>Animal Health Workshop</title>
+		<date>12/07/2023</date>
+		<description>Join us for a workshop on maintaining the health and well-being of your pets. Veterinarians will be available for consultations.</description>
+	</event>
+	<event>
+		<title>Adopt-a-Thon Weekend</title>
+		<date>30/08/2023</date>
+		<description>It's Adopt-a-Thon Weekend! Find your perfect companion among our adorable animals looking for loving homes.</description>
+	</event>
+	<event>
+		<title>Community Pet Picnic</title>
+		<date>18/09/2023</date>
+		<description>Bring your pets and join us for a community picnic. Enjoy food, games, and activities for both humans and animals.</description>
+	</event>
+	<event>
+		<title>Rescue Art Exhibition</title>
+		<date>25/10/2023</date>
+		<description>Experience the beauty of rescue through art. Local artists showcase their work, inspired by the theme of animal rescue.</description>
+	</event>
+	<event>
+		<title>Volunteer Orientation Day</title>
+		<date>14/11/2023</date>
+		<description>Interested in volunteering? Attend our orientation day to learn about the various ways you can contribute to our animal rescue efforts.</description>
+	</event>
+	<event>
+		<title>Holiday Pet Parade</title>
+		<date>22/12/2023</date>
+		<description>Get into the holiday spirit with our festive Pet Parade. Dress up your pets and join the joyous procession!</description>
+	</event>
+</news_events>

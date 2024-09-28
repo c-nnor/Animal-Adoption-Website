@@ -1,0 +1,240 @@
+﻿body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+#hr {
+    border: 0;
+    height: 20px;
+    background: #333;
+    background: linear-gradient(to right, #333, #555);
+}
+
+header {
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(to right, #333, #555);
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+    header h1 {
+        margin: 0;
+        font-size: 2em;
+        font-weight: bold;
+    }
+
+    header #logo {
+        width: 321px;
+        height: 157%;
+    }
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background: linear-gradient(to right, #333, #555);
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+    header h1 {
+        margin: 0;
+        font-size: 2em;
+        font-weight: bold;
+    }
+
+    header #logo {
+        width: 321px;
+        height: 157%;
+    }
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80%;
+    max-width: 1200px;
+    margin: 20px auto; 
+}
+
+.aboutus-container,
+.photos-container {
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    align-self: flex-start;
+}
+   .aboutus-container h1,
+   .photos-container h1 {
+       font-family: 'Roboto', sans-serif;
+       font-size: 40px;
+   }
+
+.aboutus-container p {
+font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+}
+
+.aboutus-container img {
+    width: 100%;
+    height: auto;
+}
+
+.photos-container img {
+    width: 100%;
+    height: auto;
+}
+
+@media (min-width: 768px) {
+    .container {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .aboutus-container,
+    .photos-container {
+        width: 48%;
+    }
+}
+
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: #444;
+    padding: 0.5em;
+}
+
+    nav a {
+        color: white;
+        text-decoration: none;
+    }
+
+main {
+    padding: 1em;
+}
+
+footer {
+    background: linear-gradient(to right, #333, #555);
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+    footer a {
+        color: white; 
+        text-decoration: none;
+    }
+
+        footer a:hover {
+            text-decoration: underline; 
+        }
+
+.navbar {
+    overflow: hidden;
+    background: linear-gradient(to right, #333, #444);
+    font-family: Roboto;
+}
+
+    .navbar a {
+        float: left;
+        font-size: 16px;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+    .dropdown .dropbtn {
+        font-size: 16px;
+        border: none;
+        outline: none;
+        color: white;
+        padding: 14px 16px;
+        background-color: inherit;
+        font-family: Roboto;
+        margin: 0;
+    }
+
+    .navbar a:hover,
+    .dropdown:hover .dropbtn {
+        background-color: red;
+    }
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background: linear-gradient(to right, #f9f9f9, #ddd);
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+    .dropdown-content a {
+        float: none;
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+        text-align: left;
+    }
+
+        .dropdown-content a:hover {
+            background-color: #ddd;
+        }
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+
+.slider-container {
+    position: relative;
+    max-width: 1000px;
+    margin: auto;
+    overflow: hidden;
+    margin-top: 20px;
+}
+
+.slider {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+}
+
+.slide {
+    min-width: 100%;
+}
+
+.arrow {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+    font-size: 24px;
+    color: white;
+    background-color: #333;
+    padding: 10px;
+    border: none;
+    outline: none;
+}
+
+    .arrow.left {
+        left: 10px;
+    }
+
+    .arrow.right {
+        right: 10px;
+    }
